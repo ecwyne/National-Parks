@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<HTML>
+	<head>
+		<meta charset="UTF-8">		
+		<link rel="stylesheet" href="../css/file4.css">	
+		<title>Point Reyes</title>
+		<head> 
+		<body>		
+		<header>		
+		<h2>Point Reyes<h2>	
+		<h3>1 Bear Valley Rd.<h3>
+		<p>Point Reyes Station CA.</p>
+		</header>
+		<table>
+		<tr>
+			<th>
+				<a href="hhttps://www.nps.gov/pore/learn/nature/mammals.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Mammals.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>
+				<a href="https://www.nps.gov/pore/planyourvisit/wildlife_viewing_whales.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Whale Watching.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>
+				<a href="https://www.nps.gov/pore/planyourvisit/wildlife_viewing_elephantseals.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Seals.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>
+				<a href="https://www.nps.gov/pore/learn/nature/plants.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Plants.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>		
+				<a href="https://www.nps.gov/pore/planyourvisit/wildlife_viewing_birds.htm">	
+				<img class="img-responsive" src="..\img\Point Reyes Birds.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+		</tr>
+		</table>
+		<div>
+		<p>
+			Plants
+			Point Reyes National Seashore is a jewel in the California Floristic Province - one of 25 regions of the world where biological diversity is most concentrated and the threat of loss most severe. Unique geology, soils, and climate conditions make for a highly variable landscape within a relatively small land base. The Seashore encompasses over 70,000 acres of dunes, sandy and rocky beaches, coastal grasslands, Douglas fir and Bishop Pine forests, wetlands, chaparral, and wilderness lakes. There are over 900 species of 
+			vascular plants—pretty amazing!
+		</p>
+		</div>
+		<div>
+		<p>			
+			Mammals
+			Point Reyes National Seashore encompasses approximately 71,000 acres of grassland, forest and shoreline along the Pacific coast north of San Francisco. The diversity of habitat is home to nearly 40 species of land mammals. While driving or hiking through the seashore you are likely to see some of these residents, such as bobcat and the tule elk. The shoreline, that interface between the aquatic and terrestrial environments, provides prime haul-out and breeding sites for several species of seals and sea lions. The adjacent marine waters (which include two National Marine Sanctuaries) support at least 25 species of whales and porpoises that can sometimes be seen from the mainland.
+		</p>
+		</div>
+		<div>
+		<p>
+			Birds
+			Point Reyes National Seashore offers some of the finest birdwatching in the United States. More than 70,000 acres of habitat harbor an incredible variety of bird life. Nearly 490 avian species have been observed in the park and on adjacent waters.	The park's coastal location and its wealth of unspoiled habitats, estuaries, grasslands, coastal scrub and forest all attract many migrating and wintering birds. The projection of the peninsula some 10 miles seaward from the "mainland" makes Point Reyes National Seashore a landing spot for many vagrants—birds that may have made errors in navigation and thus are unexpected in this area.
+		</p>
+		</div>
+		<div>
+		<p>
+			Bull Elephant Seal
+			After being absent for more than 150 years, elephant seals returned to the sandy Point Reyes Headlands in the early 1970s. In 1981, the first breeding pair was discovered near Chimney Rock. Since then, researchers have found that the colony is growing at a dramatic annual average rate of 16 percent. Fanning out from their initial secluded spot, the seals have expanded to popular beaches.From December through March a breeding colony of elephant seals can be observed from Elephant Seal Overlook near Chimney Rock, above beautiful Drakes Bay. The males are the first to arrive here, in December, to stake out a claim on the beach. Then pregnant females begin to arrive and soon give birth to a single pup. Subadult and juvenile animals arrive and the colony can number close to one hunGray whales delight visitors as they pass by the cliffs of the Point Reyes Lighthouse during their winter and spring migrations.
+		</p>
+		</div>
+		<div>
+		<p>
+			Gray Whales
+			Gray whales make one of the longest annual migrations of any mammal, traveling a total of 15,000 to 21,000 kilometers (9,000 to 13,000 miles) every year. They migrate south in the fall from their Arctic feeding grounds in the Bering, Beaufort, and Chukchi Seas west and north of Alaska down the Pacific coast as far as Baja California, Mexico, to spend the winter in their breeding and calving grounds in warm water lagoons and in the Southern California.
+		</p>
+		</div>
+		
+			
+					

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<HTML>
+	<head>
+		<meta charset="UTF-8">		
+		<link rel="stylesheet" href="../css/file4.css">	
+		<title>Point Reyes</title>
+		<head> 
+		<body>		
+		<header>		
+		<h2>Point Reyes<h2>	
+		<h3>Point Reyes<h3>
+		<p>Inverness CA.</p>
+		</header>
+		<table>
+		<tr>
+			<th>
+				<a href="https://www.nps.gov/pore/learn/historyculture/people_maritime_lighthouse.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Lighthouse.jpg" 
+				style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>
+				<a href="https://www.nps.gov/pore/planyourvisit/visitorcenters.htm#CP_JUMP_63132">
+				<img class="img-responsive" src="..\img\Point Reyes Visitor Center.jpg">
+				style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>
+				<a href="https://www.nps.gov/pore/planyourvisit/beaches.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Drakes Beach.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>
+				<a href="https://www.nps.gov/pore/planyourvisit/wildlife_viewing_tuleelk.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Alamere Falls.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>		
+				<a href="https://www.nps.gov/pore/planyourvisit/phillip_burton_wilderness.htm">			
+				<img class="img-responsive" src="..\img\Point Reyes Phillip Burton Wilderness.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+			<th>
+				<a href="https://www.nps.gov/pore/planyourvisit/wildlife_viewing_tuleelk.htm">
+				<img class="img-responsive" src="..\img\Point Reyes Tule Elk Reserve.jpg" style="width:150px;height:108px;">
+				</a>
+			</th>
+		</tr>
+		</table>
+		https://www.youtube.com/watch?v=VAwZ1iYJbhk&t=12s
+		<div>
+		<p>
+		The Story
+		The cultural history of Point Reyes reaches back some 5,000 years to the Coast Miwok Indians who were the first human inhabitants of the Peninsula. Over 120 known village sites exist within the park. According to many experts, Sir Francis Drake landed here in 1579, the first European explorer to do so. In response to the many shipwrecks in the treacherous coastal waters, key lighthouse and lifesaving stations were established by the United States Government in the late 1800s and early 1900s. In the early 1800s, Mexican land grantees established ranchos. They were followed by a wave of American agricultural operations, which continue to this day in the Seashore's pastoral zone.
+		</p>
+		</div>
+		<div>
+		<p>
+		Lighthouse History at Point Reyes
+		Point Reyes: A Treacherous Obstacle to Mariners
+		Point Reyes is the windiest place on the Pacific Coast and the second foggiest place on the North American continent. Weeks of fog, especially during the summer months, frequently reduce visibility to hundreds of feet. The Point Reyes Headlands, which jut 10 miles out to sea, pose a threat to each ship entering or leaving San Francisco Bay. The historic Point Reyes Lighthouse warned mariners of danger for more than a hundred years.
+		The Point Reyes Lighthouse, built in 1870, was retired from service in 1975 when the U.S. Coast Guard installed an automated light. They then transferred ownership of the lighthouse to the National Park Service, which has taken on the job of preserving this fine specimen of our heritage.
+		</p>
+		</div>
+		<div>
+		<p>
+		The Culture
+		From its thunderous ocean breakers crashing against rocky headlands and expansive sand beaches to its open grasslands, brushy hillsides, and forested ridges, Point Reyes offers visitors over 1500 species of plants and animals to discover. Home to several cultures over thousands of years, the Seashore preserves a tapestry of stories and interactions of people. Point Reyes awaits your exploration.
+		Where and How to go:
+		Point Reyes is located approximately 30 miles (50 km) north of San Francisco on Highway 1 along the west coast of California. Travelers may approach the park from the winding scenic Highway 1, either northbound or southbound. Visitors can also reach the park via Sir Francis Drake Boulevard or the Point Reyes/Petaluma Road.
+		</p>
+		</div>
+		<div>
+		<p>
+		Point Reyes is open to visitors year round.
+		Visitor Centers 
+		When planning a family vacation, a weekend get-away, or even just a Sunday drive, it often helps to know what you will encounter along the way and at your destination. This section will assist you in locating basic information for your trip, such as the visitor center hours, what sort of weather conditions you may experience, and the current conditions of park roads, trails, and other issues about which visitors may wish to know. If you wish to bring along a pet, the pet will limit where you can go and the activities in which you may participate. It's always a good idea to familiarize yourself with the Park Regulations so that you don't inadvertently break any laws. Certain activities—such as camping, building a beach fire, holding a special event, or commercial filming/photography—require permits and/or reservations. 
+		<li>https://www.nps.gov/pore/planyourvisit/pets.htm	</li>	
+		<li>https://www.nps.gov/pore/planyourvisit/directions.htm</li>
+		<li>https://www.nps.gov/pore/planyourvisit/roadclosures.htm</li>
+		<li>https://www.nps.gov/pore/planyourvisit/directions_gps.htm</li>
+		</p>
+		</div>
+		<footer>
+		Physical Address
+		1 Bear Valley Road
+		Point Reyes Station, CA 94956 
+		</footer>
+	</body>
+</html>	
+			
+		
+		
+		

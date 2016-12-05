@@ -1,0 +1,16 @@
+#page-wrap {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
+
+img:hover { 
+  outline: 5px solid brown; 
+} 
+
+img { 
+  border: 2px powderblue; 
+} 
+img:hover { 
+  outline: 3px solid brown; 
+} 
